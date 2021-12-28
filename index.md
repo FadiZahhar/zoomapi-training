@@ -25,14 +25,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Redirectors & Applications
+## 2. Introduction
 
-### 1 Redirectors
-<iframe src="https://player.vimeo.com/video/658722373" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 21 Introducing php codeigniter framework
+<iframe src="https://player.vimeo.com/video/658543825" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Starting Applications
-<iframe src="https://player.vimeo.com/video/658722776" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 22 Installation and setup of codeigniter
+<iframe src="https://player.vimeo.com/video/658543950" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 3 23 Quick Explanation on How Codeigniter Works
+<iframe src="https://player.vimeo.com/video/658544021" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 24 Basic Codeigniter Config Explainning Files Autoload
+<iframe src="https://player.vimeo.com/video/658544218" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 25 Integrating html template to the codeigniter
+<iframe src="https://player.vimeo.com/video/658544555" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 26 How to Link our CSS files with PHP base_url function
+<iframe src="https://player.vimeo.com/video/658544777" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 27 How to download the template we are using in this course - MUST WATCH
+<iframe src="https://player.vimeo.com/video/658544954" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
