@@ -50,16 +50,58 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Batch Scripting
+## 3. 3. Working with the live stream
 
-### 1 Scripting #1 Basics
-<iframe src="https://player.vimeo.com/video/658723241" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 31 Creating the live class table
+<iframe src="https://player.vimeo.com/video/658545011" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Scripting #2 Loops
-<iframe src="https://player.vimeo.com/video/658723639" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 32 Add live streaming class to the navigatioin menu
+<iframe src="https://player.vimeo.com/video/658545196" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Scripting #3 Task Completion
-<iframe src="https://player.vimeo.com/video/658723840" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 33 Create Live Class Form Template
+<iframe src="https://player.vimeo.com/video/658545548" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 34 Adding Zoom Api and Secret Key to our Table and Form
+<iframe src="https://player.vimeo.com/video/658545738" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 35 Zoom Api and Secret Key Samples
+<iframe src="https://player.vimeo.com/video/658545998" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 36 How to setup and generate zoom api and secret key
+<iframe src="https://player.vimeo.com/video/658546282" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 37 Prepare Live Class Model and Parameters
+<iframe src="https://player.vimeo.com/video/658546715" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 38 Write code to save live class to table - Part One
+<iframe src="https://player.vimeo.com/video/658547098" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 39 Write code to save live class to table - Part One
+<iframe src="https://player.vimeo.com/video/658547316" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 310 Complete saving codes and sending sms
+<iframe src="https://player.vimeo.com/video/658547502" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 11 311 Codes to update and delete  live class table
+<iframe src="https://player.vimeo.com/video/658547856" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 12 312 Generate Meeting ID and Password
+<iframe src="https://player.vimeo.com/video/658548052" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 13 313 Select codes in live class model for student and staff
+<iframe src="https://player.vimeo.com/video/658548444" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 14 314 Select From Live Class Table Part One
+<iframe src="https://player.vimeo.com/video/658548824" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 15 315 Select From Live Class Table Part Two
+<iframe src="https://player.vimeo.com/video/658549032" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 16 316 Select From Live Class Table Part Three
+<iframe src="https://player.vimeo.com/video/658549283" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 17 317 Edit Live Class Codes
+<iframe src="https://player.vimeo.com/video/658549684" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
