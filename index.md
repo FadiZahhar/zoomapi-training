@@ -4,6 +4,96 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/zoomapi-trainin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## 1. Introduction
+
+### 1 Introduction
+<iframe src="https://player.vimeo.com/video/658542868" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 12 Basic Requirement for this course - MUST Watch
+<iframe src="https://player.vimeo.com/video/658543071" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 13 Comprehensive Explanation on zoom pricing plans
+<iframe src="https://player.vimeo.com/video/658543212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 14 The school management software we want to integrate zoom live streaming with
+<iframe src="https://player.vimeo.com/video/658543511" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 15 See What we are building (Live Sreaming Integration)
+<iframe src="https://player.vimeo.com/video/658543615" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+## 2. Redirectors & Applications
+
+### 1 Redirectors
+<iframe src="https://player.vimeo.com/video/658722373" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Starting Applications
+<iframe src="https://player.vimeo.com/video/658722776" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+## 3. Batch Scripting
+
+### 1 Scripting #1 Basics
+<iframe src="https://player.vimeo.com/video/658723241" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Scripting #2 Loops
+<iframe src="https://player.vimeo.com/video/658723639" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Scripting #3 Task Completion
+<iframe src="https://player.vimeo.com/video/658723840" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 4. File Management
+
+### 1 Locating, Comparing & Encrypting Files
+<iframe src="https://player.vimeo.com/video/658724141" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 File Attributes
+<iframe src="https://player.vimeo.com/video/658724415" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 File Associations
+<iframe src="https://player.vimeo.com/video/658724901" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 5. System Administration & Management 
+
+### 1 Task Management & Scheduling
+<iframe src="https://player.vimeo.com/video/658725229" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 System Configuration & Maintenance
+<iframe src="https://player.vimeo.com/video/658725544" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Editing The Registry
+<iframe src="https://player.vimeo.com/video/658726014" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 6. Networking Tools (Optional)
+
+### 1 Troubleshooting Networks
+<iframe src="https://player.vimeo.com/video/658726292" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Managing Networks
+<iframe src="https://player.vimeo.com/video/658726581" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 7. Bonus Lectures
+
+### 1 Tips & Tricks
+<iframe src="https://player.vimeo.com/video/658726944" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Conclusion (Bonus)
+<iframe src="https://player.vimeo.com/video/658727322" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
