@@ -105,16 +105,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 4. File Management
+## 4. 4. Working the zoom api
 
-### 1 Locating, Comparing & Encrypting Files
-<iframe src="https://player.vimeo.com/video/658724141" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 41 Preapare the host live class template and the assets files
+<iframe src="https://player.vimeo.com/video/658550087" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 File Attributes
-<iframe src="https://player.vimeo.com/video/658724415" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 File Associations
-<iframe src="https://player.vimeo.com/video/658724901" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 42 Complete Live Stream for the Admin
+<iframe src="https://player.vimeo.com/video/658550321" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
