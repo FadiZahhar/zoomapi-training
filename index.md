@@ -115,36 +115,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 5. System Administration & Management 
+## 5. 5. Working with the Teacher ...
 
-### 1 Task Management & Scheduling
-<iframe src="https://player.vimeo.com/video/658725229" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 51 Create New Teacher and View Files
+<iframe src="https://player.vimeo.com/video/658550685" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 System Configuration & Maintenance
-<iframe src="https://player.vimeo.com/video/658725544" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 Editing The Registry
-<iframe src="https://player.vimeo.com/video/658726014" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 52 Complete Codes for the Teacher Live Streaming
+<iframe src="https://player.vimeo.com/video/658550980" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
-## 6. Networking Tools (Optional)
+## 6. 6. Working with the Student 
 
-### 1 Troubleshooting Networks
-<iframe src="https://player.vimeo.com/video/658726292" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 61 Prepare the Live  Streaming For Student
+<iframe src="https://player.vimeo.com/video/658551284" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Managing Networks
-<iframe src="https://player.vimeo.com/video/658726581" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 62 Complete Student Live Streaming Page
+<iframe src="https://player.vimeo.com/video/658551417" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## 7. 7. Summary and Roud up Course
 
-## 7. Bonus Lectures
+### 1 71 Summary of what we have developed
+<iframe src="https://player.vimeo.com/video/658551567" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 1 Tips & Tricks
-<iframe src="https://player.vimeo.com/video/658726944" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 2 Conclusion (Bonus)
-<iframe src="https://player.vimeo.com/video/658727322" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Markdown
